@@ -28,11 +28,11 @@ python collect_data.py
 
 
 reddit = praw.Reddit(
-    client_id="v3Tqr8fMiFca0UxPErJmCQ",
-    client_secret="T4zPUhhtNO9FK9vY7p2877rFeO2SVw",
-    user_agent="TrendAnalysisProject by u/TrendsRecommendation",
-    username="TrendsRecommendation",
-    password="TrendyPassword",
+    client_id="",
+    client_secret="",
+    user_agent="",
+    username="",
+    password="",
 )
 print("Successfully authenticated with Reddit.")
 
